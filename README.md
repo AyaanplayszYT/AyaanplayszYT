@@ -1,4 +1,4 @@
-# 🧠 Ayaan
+#  Ayaan
 
 **`Student Engineer | Developer | Gamer | Creator`**
 
@@ -81,15 +81,6 @@ I’m also a gamer at heart (Minecraft PvP, Rocket League, Fortnite gang 🕹️
   <a href="#"><img alt="Discord" title="Join my Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="#"><img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-### ⚙️ My Setup
-- 💻 **Laptop:** i7-13700H + RTX 3050 (6GB DDR6)
-- 🧠 **Memory:** 16 GB RAM
-- 🧰 **Editor:** Visual Studio Code
-- 🧩 **OS:** Windows 11 / Linux (Dual Boot)
-- 🖱️ **Fav Gear:** Lightweight gaming mouse & mechanical keyboard
 
 ---
 
