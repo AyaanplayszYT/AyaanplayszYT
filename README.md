@@ -64,14 +64,6 @@ I’m also a gamer at heart (Minecraft PvP, Rocket League, Fortnite gang 🕹️
 
 ---
 
-### 📈 GitHub Stats
-
-![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaan&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan&layout=compact&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=Ayaan&theme=gruvbox&border_radius=4.5)
-
----
-
 ### 🌍 Connect With Me
 
 <p align="left">
