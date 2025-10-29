@@ -2,7 +2,7 @@
 
 **`Student Engineer | Developer | Gamer | Creator`**
 
-Hey there! I'm **Ayaan**, a student engineer and developer who loves turning cool ideas into functional projects. I enjoy building useful apps, experimenting with hardware like the **ESP32**, and pushing creativity into code — whether that’s through **web development**, **bots**, or **IoT**.  
+Hey there! I'm **Ayaan**, a student engineer and developer who loves turning cool ideas into functional projects. I enjoy building useful apps, experimenting with hardware like the **ESP32**, and pushing creativity into code whether that’s through **web development**, **bots**, or **IoT**.  
 
 I’m also a gamer at heart (Minecraft PvP, Rocket League, Fortnite gang 🕹️) and a tech enthusiast who’s always trying new gadgets, tools, and workflows to level up productivity.
 
