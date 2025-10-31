@@ -33,31 +33,12 @@ I’m also a gamer at heart (Minecraft PvP, Rocket League, Fortnite gang 🕹️
 
 ---
 
-### 🚀 Featured Projects
-
-💡 **Daily Inspiration Hub**  
-> A web app that displays motivational quotes daily with a sleek green-cyan gradient and smooth animations.  
-
-🧭 **Task Timer App (Windows)**  
-> A desktop productivity app that helps manage and time your tasks efficiently.  
-
-🌐 **Developers Home Discord Bot**  
-> A powerful Node.js Discord bot integrated with Supabase for user data, moderation, and fun commands.  
-
-📊 **ESP32 Air Quality Monitor**  
-> IoT project that measures air quality using ESP32 and displays data on a live web dashboard.  
-
-🤖 **Local AI Chat (Llama 3.2)**  
-> A self-hosted ChatGPT-like interface that runs locally, powered by Llama3.2.  
-
----
-
 ### 🎮 What I’m Up To
-- 💻 Building new tools using **Supabase**, **React**, and **Node.js**
-- 🧠 Learning advanced **AI + IoT integrations**
-- 🎨 Experimenting with **web animations** and **responsive UI**
-- 🎮 Grinding in **Minecraft PvP** and **Fortnite**
-- ⚙️ Tinkering with hardware and ESP32 projects
+- Building new tools using **Supabase**, **React**, and **Node.js**
+- Learning advanced **AI + IoT integrations**
+- Experimenting with **web animations** and **responsive UI**
+- Grinding in **Minecraft PvP** and **Fortnite**
+- Tinkering with hardware and ESP32 projects
 
 ---
 
@@ -74,10 +55,10 @@ I’m also a gamer at heart (Minecraft PvP, Rocket League, Fortnite gang 🕹️
 ---
 
 ### 🧩 Currently Learning
-- 🪄 Advanced React Animations
-- 🌐 Supabase Auth & Realtime DB
-- 🔧 Node.js APIs and Discord integrations
-- 🤖 AI models & Local inference setups
+-  Advanced React Animations
+-  Supabase Auth & Realtime DB
+-  Node.js APIs and Discord integrations
+-  AI models & Local inference setups
 
 ---
 
