@@ -19,7 +19,7 @@ When I’m not coding, you’ll find me gaming (Minecraft PvP, Rocket League, Fo
 ---
 
 ### HackTime Stats
-https://github-readme-stats.hackclub.dev/api/wakatime?username=68091&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+[![GitHub WidgetBox](https://github-readme-stats.hackclub.dev/api/wakatime?username=68091&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 
 ---
