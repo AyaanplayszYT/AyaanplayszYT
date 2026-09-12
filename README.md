@@ -21,6 +21,16 @@ Outside of developing, I like playing video games such as **Minecraft** PvP, Roc
 ### HackTime Stats
 [![GitHub WidgetBox](https://github-readme-stats.hackclub.dev/api/wakatime?username=68091&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
+---
+
+### Hacktime Heat Map
+
+[![GitHub WidgetBox](<a href="https://heatmap.shymike.dev?id=68091&labels=true&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=68091&labels=true&theme=catppuccin_dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=68091&labels=true&theme=catppuccin_light">
+    </picture>
+</a>)
 
 ---
 
