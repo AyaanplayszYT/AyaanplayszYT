@@ -2,9 +2,9 @@
 
 **`Student Engineer | Developer | Gamer | Creator`**
 
-I’m **Ayaan**, a student engineer and developer who loves turning ideas into projects. From **web apps** and **Discord bots** to **IoT with ESP32**, I enjoy creating functional tools and experimenting with tech.  
+Hi, I'm Ayaan, a student engineer and developer who loves bringing ideas to life through projects. Whether that means building **web applications** and **Discord bots** or working with IoT on an **ESP32**, I have always enjoyed creating useful technology.
 
-When I’m not coding, you’ll find me gaming (Minecraft PvP, Rocket League, Fortnite 🕹️) or exploring new gadgets and workflows to level up productivity.
+Outside of developing, I like playing video games such as **Minecraft** PvP, Rocket League, and Fortnite.
 
 ---
 
@@ -25,12 +25,22 @@ When I’m not coding, you’ll find me gaming (Minecraft PvP, Rocket League, Fo
 ---
 
 ### Connect With Me
-
 <p align="left">
-  <a href="#"><img alt="Website" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-47CCCC?style=for-the-badge&logo=globe&logoColor=white"/></a>
-  <a href="#"><img alt="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  <a href="#"><img alt="Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://urnotmistix.com">
+    <img alt="Website" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-47CCCC?style=for-the-badge&logo=globe&logoColor=white"/>
+  </a>
+
+  <a href="https://youtube.com">
+    <img alt="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?style=for-the-badge&logo=video&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.com/users/930685257206861935">
+    <img alt="Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+  <a href="mailto:mistix786@outlook.com">
+    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-0078D4?style=for-the-badge&logo=mail&logoColor=white"/>
+  </a>
 </p>
 
 ---
