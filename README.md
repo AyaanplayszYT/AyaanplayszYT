@@ -19,7 +19,7 @@ Outside of developing, I like playing video games such as **Minecraft** PvP, Roc
 ---
 
 ### HackTime Stats
-[![GitHub WidgetBox](https://github-readme-stats.hackclub.dev/api/wakatime?username=68091&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![GitHub WidgetBox](https://github-readme-stats.hackclub.dev/api/wakatime?username=68091&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ---
 
